@@ -39,6 +39,12 @@
   <p align="center">
   <a href="https://discord.gg/tzaJewQP6F" target="_blank"><img src="https://psychboost.com/wp-content/uploads/2020/08/discord2-300x92.jpg" width="115" alt="discord.gg/tzaJewQP6F" /></a>
   </p>
+ 
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=RizkyFaisalRafi&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 <!-- End of the code -->
 
 
