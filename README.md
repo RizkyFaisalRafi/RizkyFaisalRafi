@@ -1,7 +1,7 @@
 # <div align="center">Hello Everyone 🖐, I'm Rizky Faisal Rafi / RIFARA</div>
 <div align="center">I'm a <strong>Developer</strong> from <strong>Indonesia.</strong></div>
 </br>
-<a href="https://github.com/r3mz0/" target="_blank"><img src="https://raw.githubusercontent.com/RizkyFaisalRafi/banner/main/Banner.png" /></a>
+<a href="https://github.com/r3mz0/" target="_blank"><img src="https://raw.githubusercontent.com/RizkyFaisalRafi/banner/main/Banner2.png" /></a>
 
 # <div align="center">🎉 About Me:</div> <p> </p>
 <strong>
