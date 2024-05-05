@@ -1,7 +1,7 @@
 # <div align="center">Hello Everyone 🖐, I'm Rizky Faisal Rafi / RIFARA</div>
 <div align="center">I'm a <strong>Developer</strong> from <strong>Indonesia.</strong></div>
 </br>
-<a href="https://github.com/r3mz0/" target="_blank"><img src="https://raw.githubusercontent.com/RizkyFaisalRafi/banner/main/Banner2.png" /></a>
+<a href="https://github.com/RizkyFaisalRafi/" target="_blank"><img src="https://raw.githubusercontent.com/RizkyFaisalRafi/banner/main/Banner2.png" /></a>
 
 # <div align="center">🎉 About Me:</div> <p> </p>
 <strong>
@@ -32,6 +32,9 @@
 | Windows 11 |
 |----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows 11" alt="Windows 11" width="60" height="60"/>  |
+
+### Journal: ❤️ My Journal
+<a href="https://ejournal.itn.ac.id/index.php/jati/article/view/7840" target="_blank"><img src="https://ejournal.itn.ac.id/public/journals/14/cover_issue_316_en_US.jpg" width="100" height="100" /></a>
 
 # <div align="center">📊 GitHub Stats:</div>
   <p align="center">
